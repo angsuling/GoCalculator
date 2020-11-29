@@ -1,3 +1,4 @@
+name: Notify through Whatapps
 on: [push]
 jobs:
   build:
